@@ -1,7 +1,7 @@
 {
-  "name": "natours1",
+  "name": "natours",
   "version": "1.0.0",
-  "description": "",
+  "description": "landing page for natours",
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass sass/main.scss css/style.css -w"
@@ -9,6 +9,15 @@
   "author": "\"Johanna\"",
   "license": "ISC",
   "devDependencies": {
+    "node-sass": "^8.0.0",
     "sass": "^1.58.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vegasaga/Natours-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vegasaga/Natours-project/issues"
+  },
+  "homepage": "https://github.com/Vegasaga/Natours-project#readme"
 }
